@@ -1,7 +1,0 @@
-from qiskit_ibm_runtime import QiskitRuntimeService
-
-service = QiskitRuntimeService(
-    channel='ibm_quantum',
-    instance='ibm-q/open/main',
-    token='bcac1738d8d3b6f9ad1052e296489a03d8509935255ec0c129da7f7fd909f54c7e8440732af662f6ea870b02b1aa5ad3fcadb7b32cb09e686113b361aa65dfa3'
-)
