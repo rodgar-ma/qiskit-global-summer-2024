@@ -1,7 +1,6 @@
 # Qiskit Global Summer School 2024: The Path to Utility
-
-The Qiskit Global Summer School is a two-week intensive summer program designed to empower the quantum researchers and developers of tomorrow with the know-how to explore the world of quantum computing, as well as refresh and sharpen the industry professional’s skills. This fifth-annual summer school will prepare participants for the imminent era of quantum utility. Using hands on examples, the syllabi will guide students through areas of near-term practical importance.
-
-&nbsp;
-
-Register here:  https://ibm.biz/QGSS24_Blog
+ 
+- Lab1: Transpilation: Generating Efficient Hardware-Compliant Quantum Circuits
+- Lab2: Utility-Scale Layer Fidelity Experiment
+- Lab3: Quantum Error Suppression and Mitigation with Qiskit Runtime
+- Lab4: Simulating Nature at Utility Scale
